@@ -1,0 +1,151 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+@media screen and (min-width: 500px){
+    body{
+        background-color: rgba(0, 0, 0, 0.932);
+    }
+    .section{
+        display: block;
+        margin: auto;
+        margin-top: 10rem;
+        width: 340px;
+        padding-bottom: 3rem;
+        background-color: rgb(29, 28, 28);
+        border-radius: 1rem;
+    }
+    img{
+        margin-top: 1rem;
+        margin-left: 7.4rem;
+        border-radius: 50%;
+        width: 110px;
+        height: 100px;
+    }
+    h2{
+        text-align: center;
+        color: rgb(250, 244, 244);
+        padding-top: 1.1rem;
+    }
+    .p1{
+        text-align: center;
+        color: rgb(233, 233, 99);
+        font-size: 13px;
+        padding-top: 7px;
+    }
+    .p2{
+        color: rgb(250, 244, 244);
+        padding-bottom: 1.5rem;
+    }
+    .sec2{
+        text-align: center;
+        margin-top: 2rem;
+    }
+    a{
+        text-decoration: none;
+        color:rgb(250, 244, 244) ;
+        background-color: rgb(58, 55, 55);
+        font-size: 17px;
+       
+        
+    }
+    .a1{
+        padding: 12px 6.2rem 12px 6.2rem;
+        border-radius: 0.5rem; 
+    }
+    .a2{
+        padding: 12px 4.2rem 12px 4.2rem;
+        border-radius: 0.5rem;
+    }
+    .a3{
+        padding: 12px 5.8rem 12px 5.8rem;
+        border-radius: 0.5rem; 
+    }
+    .a4{
+        padding: 12px 6.2rem 12px 6.2rem;
+        border-radius: 0.5rem; 
+    }
+    .a5{
+        padding: 12px 5.6rem 12px 5.6rem;
+        border-radius: 0.5rem; 
+    }
+    a:hover{
+        background-color:  rgb(194, 194, 73);
+        color: black;
+        transition: all 0.7 ;
+    }
+}
+@media screen and (max-width: 499px){
+    body{
+        background-color: rgba(0, 0, 0, 0.932);
+    }
+    .section{
+        display: block;
+        margin: auto;
+        margin-top: 7.5rem;
+        width: 340px;
+        padding-bottom: 3rem;
+        background-color: rgb(29, 28, 28);
+        border-radius: 1rem;
+    }
+    img{
+        margin-top: 1rem;
+        margin-left: 7.4rem;
+        border-radius: 50%;
+        width: 110px;
+        height: 100px;
+    }
+    h2{
+        text-align: center;
+        color: rgb(250, 244, 244);
+        padding-top: 1.1rem;
+    }
+    .p1{
+        text-align: center;
+        color: rgb(233, 233, 99);
+        font-size: 13px;
+        padding-top: 7px;
+    }
+    .p2{
+        color: rgb(250, 244, 244);
+        padding-bottom: 1.5rem;
+    }
+    .sec2{
+        text-align: center;
+        margin-top: 2rem;
+    }
+    a{
+        text-decoration: none;
+        color:rgb(250, 244, 244) ;
+        background-color: rgb(58, 55, 55);
+        font-size: 17px;
+       
+        
+    }
+    .a1{
+        padding: 12px 6.2rem 12px 6.2rem;
+        border-radius: 0.5rem; 
+    }
+    .a2{
+        padding: 12px 4.2rem 12px 4.2rem;
+        border-radius: 0.5rem;
+    }
+    .a3{
+        padding: 12px 5.8rem 12px 5.8rem;
+        border-radius: 0.5rem; 
+    }
+    .a4{
+        padding: 12px 6.2rem 12px 6.2rem;
+        border-radius: 0.5rem; 
+    }
+    .a5{
+        padding: 12px 5.6rem 12px 5.6rem;
+        border-radius: 0.5rem; 
+    }
+    a:hover{
+        background-color:  rgb(194, 194, 73);
+        color: black;
+        transition: all 0.7 ;
+    }
+}
